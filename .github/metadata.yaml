@@ -1,0 +1,9 @@
+description: "W3C WebAssembly for Swift: a module as a value, read from its binary format."
+topics:
+  - standards
+  - w3c
+  - webassembly
+  - wasm
+homepage: "https://swift-institute.org"
+readme:
+  family: E
